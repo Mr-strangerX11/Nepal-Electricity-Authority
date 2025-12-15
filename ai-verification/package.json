@@ -1,0 +1,24 @@
+{
+  "name": "nea-ai-verification",
+  "version": "1.0.0",
+  "description": "AI Document Verification Service for NEA",
+  "main": "main.py",
+  "scripts": {
+    "start": "python main.py",
+    "test": "pytest"
+  },
+  "keywords": [
+    "ocr",
+    "document",
+    "verification",
+    "ai",
+    "ml"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "tesseract-ocr": ">=4.0.0",
+    "opencv": ">=4.5.0",
+    "tensorflow": ">=2.12.0"
+  }
+}
