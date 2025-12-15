@@ -1,6 +1,6 @@
 # Smart Electricity Connection & Approval System
 
-A comprehensive, full-stack digital platform for managing electricity connection applications with AI-powered document verification, real-time tracking, and automated field staff scheduling.
+A comprehensive, full-stack digital platform for managing electricity connection applications with AI-powered document verification, real-time tracking, and automated field staff scheduling. The Nepal Electricity Authority (NEA) was established on August 16, 1985, under the Nepal Electricity Authority Act, 1984, to unify electricity services across Nepal; this project digitizes NEA connection workflows end-to-end.
 
 ## 📋 Project Overview
 
